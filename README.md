@@ -1,5 +1,5 @@
 
-# Python Automates Aspen Plus Process Simulation
+# Python Automates Aspen Plus for Process Simulation
 
 This repository introduces the use of python scripts to automate Aspen Plus process simulation.
 
