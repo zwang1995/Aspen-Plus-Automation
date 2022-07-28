@@ -15,7 +15,7 @@ This repository introduces the use of python scripts to automate Aspen Plus for 
 With the above actions, in an automatic manner, **process simulation** and **data collection** can be performed under different operating conditions.
 
 ## Example
-### Separation of 1-butene/1,3-butadiene mixture using Extractive Distillation
+### Extractive Distillation for 1-Butene/1,3-Butadiene Separation using N-Methyl-2-pyrrolidone (NMP)
 For simplicity, only the extractive column is considered here.
 
 ## Software
