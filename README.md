@@ -9,7 +9,7 @@ This repository introduces the use of python scripts to automate Aspen Plus for 
 
 **Monitor the OUTPUT:**
 - [x] **stream variable**: mole fraction
-- [x] **block properties**: reboiler/condenser heat duty
+- [x] **block variable**: reboiler/condenser heat duty
 - [x] **simulation error**
 
 With the above actions, in an automatic manner, **process simulation** and **data collection** can be performed under different operating conditions.
