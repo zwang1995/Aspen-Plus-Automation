@@ -18,6 +18,9 @@ With the above actions, in an automatic manner, **process simulation** and **dat
 ### Extractive Distillation for 1-Butene/1,3-Butadiene Separation using N-Methyl-2-pyrrolidone (NMP)
 For simplicity, only the extractive column is considered here.
 
+## Package
+- [pywin32](https://pypi.org/project/pywin32/): access APIs with Python
+
 ## Software
 - **Aspen Plus:** process simulation
 
