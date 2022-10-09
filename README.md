@@ -1,11 +1,11 @@
 
 # Python automates the process simulation in Aspen Plus 
 
-This repository introduces the use of python scripts to automate Aspen Plus for process simulation.
+This repository introduces the usage of python scripts to automate Aspen Plus for process simulation. (database generation / simulation-based optimization)
 
 **Manipulate the INPUT:**
-- [x] **stream variable**: modify the flow rate, temperature, etc.
-- [x] **block variable**: modify the operating pressure, total number of stages, reflux ratio, etc.
+- [x] **stream variable**: flow rate, temperature, pressure, etc.
+- [x] **block variable**: operating pressure, total number of trays, reflux ratio, etc.
 
 **Monitor the OUTPUT:**
 - [x] **stream variable**: mole fraction
