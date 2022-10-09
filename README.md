@@ -29,8 +29,8 @@ Here, an illustrative example of EDC for the 1-butene/1,3-butadiene separation i
 ## Maintainer
 Mr. Zihao Wang: zwang@mpi-magdeburg.mpg.de
 
-## References
-More introductions to the Aspen Plus automation are well described in some posts:
+## Additional Materials
+More introductions to the Aspen Plus automation are referred to some online materials:
 
 - [Mauro Suardi. (2022). Optimize process simulation with Python-Aspen integration.](https://medium.com/eni-digitalks/optimize-process-simulation-with-python-aspen-integration-e343bbab1aa0)
 - [Samvith Rao. (2021). Automation of process simulation and data analytics with MATLAB.](https://www.aiche.org/academy/webinars/automation-process-simulation-and-data-analytics-matlab)
