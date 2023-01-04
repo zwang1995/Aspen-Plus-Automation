@@ -1,33 +1,32 @@
 
 # Automated Process Simulation in Aspen Plus 
 
-This repository introduces the usage of python scripts to automate Aspen Plus for process simulation. 
+This repository introduces how to automate process simulation in Aspen Plus.
 
-The automated process simulation would be helpful if we want to repeatedly set specific input, run the simulation, and get the outputs. For example, to **generate a database** (key performance indicators of chemical processes under different operating conditions) **for surrogate modeling**. Additionally, such a method can also be used for the **simulation-based optimization**, such as the stochastic search of the optimal operating condition for chemical processes.
-
-**Input variables**
-- [x] **stream variable**: flow rate, temperature, pressure, etc.
-- [x] **block variable**: operating pressure, total number of trays, reflux ratio, etc.
-
-**Output variables**
-- [x] **stream variable**: mole fraction
-- [x] **block variable**: reboiler/condenser heat duty
-- [x] **simulation error**
-
-With the above actions, in an automatic manner, **process simulation** and **data collection** can be performed under different operating conditions.
+Automatic process simulation is highly efficient if we want to obtain the performance of a chemical process under a large number of different operating configurations. This generates datasets of operating configurations (i.e., inputs) and corresponding process performance (i.e., outputs) to support the surrogate modeling of the chemical process. Additionally, it allows for simulation-based optimization to search for  optimal operating conditions of chemical processes.
 
 ## Example
 ### Extractive Distillation Column (EDC)
-Here, an illustrative example of EDC for the 1-butene/1,3-butadiene separation is introduced. N-methyl-2-pyrrolidone (NMP) is adopted as the solvent. The objective is to collect the key performance indicators (i.e., product purity and reboiler heat duty) of the EDC under different configurations (i.e., varying number of trays, reflux ratio, and flow rate of solvent). Meanwhile, errors that occurred in the simulations are detected and recorded.
+Here, an illustrative example of EDC for the 1-butene/1,3-butadiene separation is introduced. N-methyl-2-pyrrolidone (NMP) is adopted as the solvent. The objective is to run the simulation and collect the key performance indicators (i.e., product purity and reboiler heat duty) of the EDC under different configurations (i.e., varying numbers of stages, reflux ratios, and flow rates of NMP). Meanwhile, errors that occurred in the simulation are detected and recorded.
 
-## Package
+**Inputs:**
+- [x] stream variables (flow rate, temperature, pressure, etc.)
+- [x] block variables (operating pressure, total number of trays, reflux ratio, etc.)
+
+**Outputs:**
+- [x] stream variables (mole fraction)
+- [x] block variables (reboiler/condenser heat duty)
+- [x] simulation error
+
+## Requirements
+### Library
 - [pywin32](https://pypi.org/project/pywin32/): provide access to APIs
 
-## Software
+### Software
 - **Aspen Plus:** chemical process simulation
 
-## Maintainer
-Mr. Zihao Wang: zwang@mpi-magdeburg.mpg.de
+## Author
+Zihao Wang (zwang@mpi-magdeburg.mpg.de)
 
 ## Additional materials
 More introductions to the Aspen Plus automation are referred to some online materials:
