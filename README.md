@@ -35,3 +35,9 @@ More introductions to the Aspen Plus automation are referred to the following ma
 - [Samvith Rao. (2021). Automation of process simulation and data analytics with MATLAB.](https://www.aiche.org/academy/webinars/automation-process-simulation-and-data-analytics-matlab)
 - [Zain Javed. (2020). How to use Aspen Plus - Matlab Link?.](https://www.mathworks.com/matlabcentral/answers/504450-how-to-use-aspen-plus-matlab-link)
 - [Brian Satola. (2018). Navigating the Variable Explorer in Aspen Plus.](https://chejunkie.com/knowledge-base/navigating-variable-explorer-aspen-plus/)
+
+Other similar repos:
+https://github.com/edgarsmdn/Aspen_Plus_Python/blob/main/AspenPlus_Python.py
+
+If you work with Aspen HYSYS, pleaase refer to:
+https://github.com/edgarsmdn/Aspen_HYSYS_Python
