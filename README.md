@@ -1,5 +1,5 @@
 
-# Automated Process Simulation in Aspen Plus 
+# Automatic Process Simulation in Aspen Plus 
 
 This repository introduces how to automate process simulation in Aspen Plus.
 
