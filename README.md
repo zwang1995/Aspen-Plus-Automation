@@ -14,7 +14,7 @@ Here, an illustrative example of EDC for the 1-butene/1,3-butadiene separation i
 - [x] block variables (operating pressure, total number of trays, reflux ratio, etc.)
 
 **Outputs:**
-- [x] stream variables (mole fraction)
+- [x] stream variables (mole fraction, temperature, pressure, etc.)
 - [x] block variables (reboiler/condenser heat duty)
 - [x] simulation error
 
