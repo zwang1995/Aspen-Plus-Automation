@@ -20,7 +20,7 @@ Here, an illustrative example of EDC for the 1-butene/1,3-butadiene separation i
 
 ## Requirements
 ### Library
-- [pywin32](https://pypi.org/project/pywin32/): provide access to APIs
+- [pywin32](https://pypi.org/project/pywin32/): provide access to Windows APIs from Python
 
 ### Software
 - **Aspen Plus:** chemical process simulation
