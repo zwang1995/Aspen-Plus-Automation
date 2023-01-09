@@ -13,7 +13,7 @@ Here, an illustrative example of EDC for the 1-butene/1,3-butadiene separation i
 
 **Inputs:**
 - [x] stream variables (flow rate, temperature, pressure, etc.)
-- [x] block variables (operating pressure, total number of trays, reflux ratio, etc.)
+- [x] block variables (operating pressure, the total number of trays, reflux ratio, etc.)
 
 **Outputs:**
 - [x] stream variables (mole fraction, temperature, pressure, etc.)
@@ -38,8 +38,6 @@ More introductions to the Aspen Plus automation are referred to the following ma
 - [Zain Javed. (2020). How to use Aspen Plus - Matlab Link?.](https://www.mathworks.com/matlabcentral/answers/504450-how-to-use-aspen-plus-matlab-link)
 - [Brian Satola. (2018). Navigating the Variable Explorer in Aspen Plus.](https://chejunkie.com/knowledge-base/navigating-variable-explorer-aspen-plus/)
 
-Other similar repos:
+Similar repositories:
 https://github.com/edgarsmdn/Aspen_Plus_Python/blob/main/AspenPlus_Python.py
-
-If you work with Aspen HYSYS, pleaase refer to:
-https://github.com/edgarsmdn/Aspen_HYSYS_Python
+If you work with Aspen HYSYS, please refer to: https://github.com/edgarsmdn/Aspen_HYSYS_Python
