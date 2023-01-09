@@ -3,7 +3,9 @@
 
 This repository introduces how to automate process simulation in Aspen Plus.
 
-Automatic process simulation is highly efficient if we want to obtain the performance of a chemical process under a large number of different operating configurations. This generates datasets of operating configurations (i.e., inputs) and corresponding process performance (i.e., outputs) to support the surrogate modeling of the chemical process. Additionally, it allows for simulation-based optimization to search for  optimal operating conditions of chemical processes.
+Automatic process simulation is highly efficient if we want to obtain the performance of a chemical process under a large number of different operating configurations. This generates datasets of operating configurations (i.e., inputs) and corresponding process performance (i.e., outputs), enabling the **surrogate modeling** of the chemical process. 
+
+Additionally, the automatic process simulation allows for **simulation-based optimization** to search for optimal operating conditions of chemical processes.
 
 ## Example
 ### Extractive Distillation Column (EDC)
