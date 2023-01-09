@@ -1,1 +1,1 @@
-
+Here is the Aspen Plus file (in bkp format, V12) that simulates the extractive distillation of the 1-butene/1,3-butadiene mixture using N-methyl-2-pyrrolidone (NMP) as the solvent. The high-purity 1-butene is obtained at the top and the 1,3-butadiene/NMP mixture is obtained at the bottom.
