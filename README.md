@@ -7,7 +7,7 @@ Automatic process simulation is highly efficient if we want to obtain the perfor
 
 ## Example
 ### Extractive Distillation Column (EDC)
-Here, an illustrative example of EDC for the 1-butene/1,3-butadiene separation is introduced. N-methyl-2-pyrrolidone (NMP) is adopted as the solvent. The objective is to run the simulation and collect the key performance indicators (i.e., product purity and reboiler heat duty) of the EDC under different configurations (i.e., varying numbers of stages, reflux ratios, and flow rates of NMP). Meanwhile, errors that occurred in the simulation are detected and recorded.
+Here, an illustrative example of EDC for the 1-butene/1,3-butadiene separation is introduced. N-methyl-2-pyrrolidone (NMP) is adopted as the solvent. The **objective** is to run the simulation and collect the key performance indicators (i.e., product purity and reboiler heat duty) of the EDC under different configurations (i.e., varying numbers of stages, reflux ratios, and flow rates of NMP). Meanwhile, errors that occurred in the simulation are detected and recorded.
 
 **Inputs:**
 - [x] stream variables (flow rate, temperature, pressure, etc.)
