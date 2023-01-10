@@ -1,5 +1,5 @@
 
-* `spen_utils.py.py`: general functions
+* `spen_utils.py`: general functions
 
 * `simulation.py`: run process simulations and collect results
 
