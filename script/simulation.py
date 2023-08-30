@@ -1,4 +1,4 @@
-# Created at 08 Jun 2022 by Zihao Wang, zwang@mpi-magdeburg.mpg.de
+# Created on 08 Jun 2022 by Zihao Wang, zwang@mpi-magdeburg.mpg.de
 
 import itertools
 from aspen_utils import *
