@@ -28,7 +28,7 @@ Here, an illustrative example of EDC for the 1-butene/1,3-butadiene separation i
 - Aspen Plus: chemical process simulation
 
 ## Author
-[Zihao Wang](https://zwang1995.github.io) (zwang@mpi-magdeburg.mpg.de)
+[Zihao Wang](https://zwang1995.github.io)
 
 ## Additional Materials
 More introductions to the Aspen Plus automation are referred to the following materials:
@@ -38,6 +38,6 @@ More introductions to the Aspen Plus automation are referred to the following ma
 - [Brian Satola. (2018). Navigating the Variable Explorer in Aspen Plus.](https://chejunkie.com/knowledge-base/navigating-variable-explorer-aspen-plus/)
 
 Related repository:
-- https://github.com/edgarsmdn/Aspen_Plus_Python/blob/main/AspenPlus_Python.py
+- https://github.com/edgarsmdn/Aspen_Plus_Python
 
 If you work with Aspen HYSYS, please refer to: https://github.com/edgarsmdn/Aspen_HYSYS_Python
